@@ -1,5 +1,19 @@
 # ANIME
 
+
+
+
+
+
+<item>
+<title>[COLOR silver][B] NINJA KAMUI [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d9b6c30e6cb635d847e0c6678db2399dca648be6$nome=EP.1</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:617589e1203ec8bbc512aa7dfd1f9ef5163a4fe2$nome=EP.2</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/3dl7QFrpvtu9My4L6K7KtUMP8p1.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> Joe Higan é um Nukenin um ex-ninja que escapou de seu clã e está se escondendo de seu passado violento na América rural com sua família. Uma noite, ele é emboscado por uma equipe de assassinos de sua antiga organização que exige uma retribuição sangrenta a Joe e sua família por trair seu antigo código. Ressuscitando de sua aparente morte, Joe ressurgirá como Ninja Kamui para vingar sua família e amigos. Episódios: 12 • Duração: 23 min.Estúdio: E&H Production.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] DEMON SLAYER-MUGEM TRAIN O FILME [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4FXK56T7UBOSD6635H4G4CRPVN7XHYM5</link>
