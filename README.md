@@ -16,6 +16,7 @@
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:P737VS3NTK3FRHN4OYAJFSTGRY3J62I2$nome=EP.10</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:GIBACJPT6GIFWLNKL5EHTS4WHQPBA6QW$nome=EP.11</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:PK772Q65P7RJ5ATUJVI4ENQVHL5YP7JA$nome=EP.12</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:SEGBPMZ3D3JCUO5T23PJL75BNPGT7QYL$nome=EP.13</link>
 <thumbnail>https://media.themoviedb.org/t/p/original/3dl7QFrpvtu9My4L6K7KtUMP8p1.jpg</thumbnail>
 <fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
 <info> Joe Higan é um Nukenin um ex-ninja que escapou de seu clã e está se escondendo de seu passado violento na América rural com sua família. Uma noite, ele é emboscado por uma equipe de assassinos de sua antiga organização que exige uma retribuição sangrenta a Joe e sua família por trair seu antigo código. Ressuscitando de sua aparente morte, Joe ressurgirá como Ninja Kamui para vingar sua família e amigos. Episódios: 12 • Duração: 23 min.Estúdio: E&H Production.</info>
